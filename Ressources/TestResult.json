@@ -1,0 +1,56 @@
+{
+  "results": [
+    {
+      "columns": [],
+      "data": []
+    },
+    {
+      "columns": [ "e" ],
+      "data": [
+        {
+          "row": [
+            {
+              "Id": 1,
+              "Name": "Test",
+              "LastUpdateDate": "2017-02-21T10:43:46.3540566+01:00"
+            }
+          ],
+          "meta": [
+            {
+              "id": 10,
+              "type": "node",
+              "deleted": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "columns": [ "e" ],
+      "data": [
+        {
+          "row": [
+            {
+              "Id": 1,
+              "Name": "Test",
+              "LastUpdateDate": "2017-02-21T10:43:46.3540566+01:00"
+            }
+          ],
+          "meta": [
+            {
+              "id": 10,
+              "type": "node",
+              "deleted": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "errors": [
+    {
+      "code": "Neo.ClientError.Statement.SyntaxError",
+      "message": "Invalid input 'a': expected whitespace, comment, a relationship pattern, ',', USING, WHERE, LOAD CSV, START, MATCH, UNWIND, MERGE, CREATE, SET, DELETE, REMOVE, FOREACH, WITH, CALL, RETURN, UNION, ';' or end of input (line 1, column 20 (offset: 19))\r\n\"MATCH (e:UnitTest) aha RETURN e.aha LIMIT 25\"\r\n                    ^"
+    }
+  ]
+}

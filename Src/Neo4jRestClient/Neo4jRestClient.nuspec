@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>EhRomFactory.Neo4jRestClient</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Romain Ehret</authors>
+    <owners>Romain Ehret</owners>
+    <!-- <licenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</licenseUrl> -->
+    <!-- <projectUrl>http://PROJECT_URL_HERE_OR_DELETE_THIS_LINE</projectUrl> -->
+    <iconUrl>https://neo4j.com/wp-content/themes/neo4jweb/favicon.ico</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A simple library to call Neo4j database using the Neo4j REST API.</description>
+    <releaseNotes>First Release.</releaseNotes>
+    <copyright>Copyright EhRom Factory 2017</copyright>
+    <tags>Neo4j REST client</tags>
+  </metadata>
+</package>
