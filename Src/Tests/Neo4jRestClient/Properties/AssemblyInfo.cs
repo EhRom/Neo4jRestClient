@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Neo4jRestClient.Tests")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("SWORD")]
+[assembly: AssemblyCompany("EhRomFactory")]
 [assembly: AssemblyProduct("Neo4jRestClient.Tests")]
-[assembly: AssemblyCopyright("Copyright © SWORD 2017")]
+[assembly: AssemblyCopyright("Copyright © Romain Ehret 2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -23,14 +23,5 @@ using System.Runtime.InteropServices;
 [assembly: Guid("b7f9b1de-8886-46e1-850b-f4c18edd2ab1")]
 
 // Version information for an assembly consists of the following four values:
-//
-//      Major Version
-//      Minor Version 
-//      Build Number
-//      Revision
-//
-// You can specify all the values or you can default the Build and Revision Numbers 
-// by using the '*' as shown below:
-// [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("1.0.0.0")]
-[assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: AssemblyVersion("1.1.0.0")]
+[assembly: AssemblyFileVersion("1.1.0.0")]
